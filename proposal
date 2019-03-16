@@ -1,4 +1,6 @@
-For the final project, I want to gather ideas for using muscle sensors to help exercise. The current idea is to use muscle sensor to collect
-one guy's emg signal and use that signal to control other people's muscle. I haven't thought out the specific application yet, for which i 
-should have better understanding of the danger & how the system work. Any new thought will be updated here.
+For the final project, I want to gather ideas for using muscle sensors to help exercise. 
+The current idea is to use muscle sensor to collect one guy's emg signal and use that signal to control other people's muscle
+to implement a "coach" mode, that can let people feel the specific part of muscle they want to exercise.
+I haven't thought out the specific application yet, for which i should have better understanding 
+of the danger & how the system work. Any new thought will be updated here.
 
